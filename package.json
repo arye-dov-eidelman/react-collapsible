@@ -1,5 +1,5 @@
 {
-  "name": "react-collapsible",
+  "name": "react-collapsible-pr-148",
   "version": "2.7.0",
   "description": "React component to wrap content in Collapsible element with trigger to open and close.",
   "keywords": [
@@ -11,8 +11,9 @@
   ],
   "main": "dist/Collapsible.js",
   "types": "./index.d.ts",
-  "author": "Glenn Flanagan <glenn@arctictiger.co.uk>",
+  "author": "Arye Eidelman <aryedoveidelman@gmail.com>",
   "contributors": [
+    "Glenn Flanagan <glenn@arctictiger.co.uk>",
     "Karl Taylor <karl_taylor@me.com>",
     "Rebeca Sarai <rebecasaraiaguiar@gmail.com>"
   ],
